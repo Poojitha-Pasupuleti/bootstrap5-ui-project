@@ -1,4 +1,3 @@
-# bootstrap5-ui-project
 # 🌐 Bootstrap 5 UI Exploration & Page Design  
 
 ### 🚀 Internship Project by [Poojitha Pasupuleti](https://www.linkedin.com/in/poojitha-pasupuleti-01458a302)
