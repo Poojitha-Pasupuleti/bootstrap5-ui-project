@@ -56,7 +56,7 @@ This project includes **three fully responsive pages** built using HTML5, CSS3, 
 ## 🔗 **Live Demo & Repository**
 
 - 🌍 **Live Preview:** [https://poojitha-pasupuleti.github.io/bootstrap5-ui-project/](https://poojitha-pasupuleti.github.io/bootstrap5-ui-project/)
-- 💻 **GitHub Repository:** [https://github.com/poojitha-pasupuleti/bootstrap5-ui-project](https://github.com/poojitha-pasupuleti/bootstrap5-ui-project)
+- 💻 **GitHub Repository:** [https://github.com/Poojitha-Pasupuleti/bootstrap5-ui-project](https://github.com/Poojitha-Pasupuleti/bootstrap5-ui-project)
 
 ---
 
